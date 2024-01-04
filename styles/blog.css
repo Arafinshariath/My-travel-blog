@@ -1,3 +1,11 @@
+.cc{
+    background-color: azure;
+}
+.item{
+    color: red;
+    background-color: aqua;
+    border-radius: blue;
+}
 img{
     padding-inline-end: 50%;
     initial-letter-align: sold;
