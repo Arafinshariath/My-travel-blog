@@ -1,3 +1,7 @@
+img{
+    padding-inline-end: 50%;
+    initial-letter-align: sold;
+}
 div{background-color: rgb(213, 241, 51);
     /* background-color: red magenta; */
     background-size: cover;
@@ -11,4 +15,23 @@ div{background-color: rgb(213, 241, 51);
     font-size: larger medium;
     margin-top: auto ;
     
+}
+.dot{
+color: hsl(0, 3%, 13%);
+background-color: #ff004c; 
+border-color: #d2691e;
+
+}
+.hot{
+    color: #ff004c;
+    background-color: aliceblue;
+    border-color: aqua;
+}
+.pot{
+    color: aqua;
+    background-color: chartreuse;
+}
+.cot{
+    color: burlywood;
+    background-color: coral;
 }
