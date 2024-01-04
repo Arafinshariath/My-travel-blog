@@ -1,0 +1,14 @@
+div{background-color: rgb(213, 241, 51);
+    /* background-color: red magenta; */
+    background-size: cover;
+    padding-inline-end:40px;
+}
+.hold{
+    font-size: 30px;
+}
+.colour{
+    color: #ff0015;
+    font-size: larger medium;
+    margin-top: auto ;
+    
+}
